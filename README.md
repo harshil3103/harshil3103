@@ -1,4 +1,4 @@
-# Hi, I'm Harshil
+# Hi, I'm Harshil 👾
 
 Welcome to my GitHub profile! I'm a **Network Automation Intern** passionate about building practical AI products that solve real problems and deliver measurable impact.
 
@@ -8,7 +8,7 @@ I'm focused on turning ideas into usable tools with clean execution. My expertis
 
 ## 💻 Technical Skills
 
-- **Languages**: Python
+- **Languages**: Python,
 - **Automation & Workflows**: n8n, workflow orchestration, automation frameworks
 - **AI & ML**: LLM models, machine learning, computer vision, AI integration
 - **Specializations**: Network automation, AI product development, practical ML solutions
@@ -35,11 +35,8 @@ Explore my repositories to see examples of my work in AI, automation, and practi
 ## 🤝 Let's Connect
 
 I'm always excited to collaborate on AI projects, discuss automation strategies, or explore new applications of machine learning!
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
-- 🌐 [Personal Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/harshil3103)
+- 📧 Email: s.harshil3103@gmail.com
 
 ## 💡 What I'm Currently Working On
 
